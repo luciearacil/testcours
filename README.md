@@ -1,3 +1,3 @@
 # testcours
 
-a=c(1:3)
+B=c(1:3)
